@@ -32,6 +32,6 @@ Utilize as [issues](https://github.com/phpzm/lineup/issues) para fazer pedidos d
     - [ ] [Criação e publicação no Packagist](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
     - [ ] [Repósitórios privados](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
 
-### Contatos
+#### Contatos
  - [Blog](https://phpzm.rocks)
  - [Telegram](https://t.me/phpzm)
