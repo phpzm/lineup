@@ -1,5 +1,8 @@
-# Lineup de Conteúdo do PHPZM
+# Lista de Conteúdo em Vídeo do Canal do PHPZM
 Repositório com o objetivo de agrupar o conteúdo em vídeo que já foi e que será produzido pelo phpzm.
+
+## Publicações 
+Serão publicados vídeos no canal às quartas e sábados
 
 # Vídeos
 - [x] [Configurando o PhpStorm](https://www.youtube.com/playlist?list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue)
@@ -14,4 +17,14 @@ Repositório com o objetivo de agrupar o conteúdo em vídeo que já foi e que s
   - [x] Autoload
     - [x] [PSR-4 configuração](https://www.youtube.com/watch?v=Q-kPnxaX9yc&t=4s)
     - [x] [PSR-4 exemplo básico](https://www.youtube.com/watch?v=zk2IJ1yjjJw&t=86s)
+    - [ ] [PSR-4 exemplo avançado]()
+    - [ ] [Carregamento de arquivos]()
+    - [ ] [Gerenciando bootstraping]()
+  - [ ] Gestão de scripts
+    - [ ] [Adicionar scripts ao composer.json]()
+    - [ ] [Combinar scripts e automatizar tarefas]()
+  - [ ] Pacotes
+    - [ ] [Introdução a distribuição de pacotes]()
+    - [ ] [Instalação e desinstalação]()
+    - [ ] [Criação e publicação no Packagist]()
   
