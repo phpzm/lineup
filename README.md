@@ -8,6 +8,7 @@ Serão publicados vídeos no canal às quartas e sábados
 Utilize as [issues](https://github.com/phpzm/lineup/issues) para fazer pedidos de conteúdos, enviar materiais ou qualquer outra coisa : )
 
 # Vídeos
+<small>Itens desmarcados ainda não estão publicados</small>
 - [x] [Configurando o PhpStorm](https://www.youtube.com/playlist?list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue)
   - [x] [Instalação](https://www.youtube.com/watch?v=SW52gSxVhME&index=1&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue&t=36s)
   - [x] [PHP CS](https://www.youtube.com/watch?v=jXJ7vxJA0rw&index=2&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue&t=60s)
