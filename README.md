@@ -4,6 +4,9 @@ Repositório com o objetivo de agrupar o conteúdo em vídeo que já foi e que s
 ## Publicações 
 Serão publicados vídeos no canal às quartas e sábados
 
+## Pedidos
+Utilize as [issues](https://github.com/phpzm/lineup/issues) para fazer pedidos de conteúdos, enviar materiais ou qualquer outra coisa : )
+
 # Vídeos
 - [x] [Configurando o PhpStorm](https://www.youtube.com/playlist?list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue)
   - [x] [Instalação](https://www.youtube.com/watch?v=SW52gSxVhME&index=1&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue&t=36s)
