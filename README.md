@@ -27,4 +27,5 @@ Serão publicados vídeos no canal às quartas e sábados
     - [ ] [Introdução a distribuição de pacotes]()
     - [ ] [Instalação e desinstalação]()
     - [ ] [Criação e publicação no Packagist]()
+    - [ ] [Repósitórios privados]()
   
