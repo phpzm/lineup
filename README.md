@@ -1,4 +1,4 @@
-# Lista de Conteúdo em Vídeo do Canal do PHPZM
+# Lista de Conteúdo em Vídeo do [Canal do PHPZM](https://www.youtube.com/channel/UCXrNXDef4ZRUrYyIGZ0rXlg)
 Repositório com o objetivo de agrupar o conteúdo em vídeo que já foi e que será produzido pelo phpzm.
 
 ## Publicações 
