@@ -17,15 +17,15 @@ Serão publicados vídeos no canal às quartas e sábados
   - [x] Autoload
     - [x] [PSR-4 configuração](https://www.youtube.com/watch?v=Q-kPnxaX9yc&t=4s)
     - [x] [PSR-4 exemplo básico](https://www.youtube.com/watch?v=zk2IJ1yjjJw&t=86s)
-    - [ ] [PSR-4 exemplo avançado]()
-    - [ ] [Carregamento de arquivos]()
-    - [ ] [Gerenciando bootstraping]()
+    - [ ] [PSR-4 exemplo avançado](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+    - [ ] [Carregamento de arquivos](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+    - [ ] [Gerenciando bootstraping](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
   - [ ] Gestão de scripts
-    - [ ] [Adicionar scripts ao composer.json]()
-    - [ ] [Combinar scripts e automatizar tarefas]()
-  - [ ] Pacotes
-    - [ ] [Introdução a distribuição de pacotes]()
-    - [ ] [Instalação e desinstalação]()
-    - [ ] [Criação e publicação no Packagist]()
-    - [ ] [Repósitórios privados]()
-  
+    - [ ] [Adicionar scripts ao composer.json](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+    - [ ] [Combinar scripts e automatizar tarefas](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+  - [ ] Pacotes
+    - [ ] [Introdução a distribuição de pacotes](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+    - [ ] [Instalação e desinstalação](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+    - [ ] [Criação e publicação no Packagist](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+    - [ ] [Repósitórios privados](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+
