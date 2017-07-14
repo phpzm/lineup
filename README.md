@@ -7,6 +7,8 @@ Serão publicados vídeos no canal às quartas e sábados
 ## Pedidos
 Utilize as [issues](https://github.com/phpzm/lineup/issues) para fazer pedidos de conteúdos, enviar materiais ou qualquer outra coisa : )
 
+Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma busca pra verificar se aquele conteúdo já foi sugerido por outra pessoa. Se ele já existir é só você comentar um "+1".
+
 # Vídeos
 <small>Itens desmarcados ainda não estão publicados</small>
 - [x] [Configurando o PhpStorm](https://www.youtube.com/playlist?list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue)
@@ -32,7 +34,11 @@ Utilize as [issues](https://github.com/phpzm/lineup/issues) para fazer pedidos d
     - [ ] [Instalação e desinstalação](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
     - [ ] [Criação e publicação no Packagist](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
     - [ ] [Repósitórios privados](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+- [x] [Docker Hands On - Preparando o Ambiente](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
+  - [x] [Instalação usando cURL](https://www.youtube.com/watch?v=2ZvA-nwrvMw)
 
 #### Contatos
  - [Blog](https://phpzm.rocks)
  - [Telegram](https://t.me/phpzm)
+ - [Twitter](https://twitter.com/phpzm)
+ - [Facebook](https://www.facebook.com/zmrocks)
