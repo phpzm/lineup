@@ -36,6 +36,23 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
     - [ ] [Repósitórios privados](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
 - [x] [Docker Hands On - Preparando o Ambiente](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
   - [x] [Instalação usando cURL](https://www.youtube.com/watch?v=2ZvA-nwrvMw)
+  - [x] [Criando seu primeiro container](https://www.youtube.com/watch?v=USNjk6ifbPk)
+  - [ ] [Primeiros passos com Docker Compose](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
+  - [ ] [PHP-FPM com Docker Compose](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
+  - [ ] [Serviços com Docker Compose](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
+  - [ ] [Docker Compose e PHP Composer](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
+  - [ ] [Xdebug no Docker](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
+- [ ] [Docker Hacks]()
+  - [ ] [Modo gráfico]()
+  - [ ] [Arrumando a casa]()
+  - [ ] [O mundo em um Dockerfile]()
+  - [ ] [Gerenciamento de Volumes]()
+  - [ ] [Proxy reverso com Nginx]()
+- [ ] [Configuração de Ambientes]()
+  - [ ] [Utilizando integração contínua]()
+  - [ ] [Publicação de projetos]()
+  - [ ] [Cluster com Docker Swarm]()
+
 
 #### Contatos
  - [Blog](https://phpzm.rocks)
