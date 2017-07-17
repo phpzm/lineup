@@ -34,8 +34,9 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
     - [ ] [Instalação e desinstalação](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
     - [ ] [Criação e publicação no Packagist](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
     - [ ] [Repósitórios privados](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
-- [ ] Docker
-  - [ ] [Docker Hands On - Preparando o Ambiente](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
+- [ ] [Docker Hands On](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
+  - [ ] Conceitos básicos
+    - [x] [Preparando o Ambiente](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
     - [x] [Instalação usando cURL](https://www.youtube.com/watch?v=2ZvA-nwrvMw)
     - [x] [Criando seu primeiro container](https://www.youtube.com/watch?v=USNjk6ifbPk)
     - [ ] [Primeiros passos com Docker Compose](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
