@@ -34,7 +34,7 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
     - [ ] [Instalação e desinstalação](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
     - [ ] [Criação e publicação no Packagist](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
     - [ ] [Repósitórios privados](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
-- [ ] [Docker Hands On](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
+- [ ] [Docker](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
   - [ ] Conceitos básicos
     - [x] [Preparando o Ambiente](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
     - [x] [Instalação usando cURL](https://www.youtube.com/watch?v=2ZvA-nwrvMw)
@@ -44,13 +44,13 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
     - [ ] [Serviços com Docker Compose](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
     - [ ] [Docker Compose e PHP Composer](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
     - [ ] [Xdebug no Docker](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
-  - [ ] [Docker Hacks]()
+  - [ ] Docker hacks
     - [ ] [Modo gráfico]()
     - [ ] [Arrumando a casa]()
     - [ ] [O mundo em um Dockerfile]()
     - [ ] [Gerenciamento de Volumes]()
     - [ ] [Proxy reverso com Nginx]()
-  - [ ] [Configuração de Ambientes]()
+  - [ ] Configuração de ambientes
     - [ ] [Utilizando integração contínua]()
     - [ ] [Publicação de projetos]()
     - [ ] [Cluster com Docker Swarm]()
