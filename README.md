@@ -2,7 +2,7 @@
 Repositório com o objetivo de agrupar o conteúdo em vídeo que já foi e que será produzido pelo phpzm.
 
 ## Publicações 
-Serão publicados vídeos no canal às quartas e sábados
+Serão publicados vídeos no canal às segundas e quintas.
 
 ## Pedidos
 Utilize as [issues](https://github.com/phpzm/lineup/issues) para fazer pedidos de conteúdos, enviar materiais ou qualquer outra coisa : )
