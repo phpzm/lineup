@@ -12,17 +12,17 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
 # Vídeos
 <small>Itens desmarcados ainda não estão publicados</small>
 - [x] [Configurando o PhpStorm](https://www.youtube.com/playlist?list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue)
-  - [x] [Instalação](https://www.youtube.com/watch?v=SW52gSxVhME&index=1&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue&t=36s)
-  - [x] [PHP CS](https://www.youtube.com/watch?v=jXJ7vxJA0rw&index=2&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue&t=60s)
-  - [x] [PHP CS Fixer](https://www.youtube.com/watch?v=9GlIK42fogU&index=3&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue&t=43s)
-  - [x] [PHPMD](https://www.youtube.com/watch?v=Iqn9KuASrHg&index=4&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue&t=3s)
+  - [x] [Instalação](https://www.youtube.com/watch?v=SW52gSxVhME&index=1&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue)
+  - [x] [PHP CS](https://www.youtube.com/watch?v=jXJ7vxJA0rw&index=2&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue)
+  - [x] [PHP CS Fixer](https://www.youtube.com/watch?v=9GlIK42fogU&index=3&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue)
+  - [x] [PHPMD](https://www.youtube.com/watch?v=Iqn9KuASrHg&index=4&list=PLMpauGt6IneTZloQTENz7vYvue-poV-ue)
 - [ ] [Composer](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
   - [x] Instalação
     - [x] [Local](https://www.youtube.com/watch?v=1nkgNE2rDps)
-    - [x] [Global](https://www.youtube.com/watch?v=_wJO0uYoxsA&t=17s)
+    - [x] [Global](https://www.youtube.com/watch?v=_wJO0uYoxsA)
   - [ ] Autoload
-    - [x] [PSR-4 configuração](https://www.youtube.com/watch?v=Q-kPnxaX9yc&t=4s)
-    - [x] [PSR-4 exemplo básico](https://www.youtube.com/watch?v=zk2IJ1yjjJw&t=86s)
+    - [x] [PSR-4 configuração](https://www.youtube.com/watch?v=Q-kPnxaX9yc)
+    - [x] [PSR-4 exemplo básico](https://www.youtube.com/watch?v=zk2IJ1yjjJw)
     - [x] [PSR-4 exemplo avançado](https://www.youtube.com/watch?v=Fjp0rmmfuCc&feature=youtu.be)
     - [ ] [Carregamento de arquivos](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
     - [ ] [Gerenciando bootstraping](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
