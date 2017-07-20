@@ -23,7 +23,7 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
   - [ ] Autoload
     - [x] [PSR-4 configuração](https://www.youtube.com/watch?v=Q-kPnxaX9yc&t=4s)
     - [x] [PSR-4 exemplo básico](https://www.youtube.com/watch?v=zk2IJ1yjjJw&t=86s)
-    - [ ] [PSR-4 exemplo avançado](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+    - [x] [PSR-4 exemplo avançado](https://www.youtube.com/watch?v=Fjp0rmmfuCc&feature=youtu.be)
     - [ ] [Carregamento de arquivos](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
     - [ ] [Gerenciando bootstraping](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
   - [ ] Gestão de scripts
