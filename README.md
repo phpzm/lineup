@@ -39,7 +39,7 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
     - [x] [Preparando o Ambiente](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
     - [x] [Instalação usando cURL](https://www.youtube.com/watch?v=2ZvA-nwrvMw)
     - [x] [Criando seu primeiro container](https://www.youtube.com/watch?v=USNjk6ifbPk)
-    - [ ] [Primeiros passos com Docker Compose](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
+    - [x] [Primeiros passos com Docker Compose](https://youtu.be/ylxi1RsCUT0)
     - [ ] [PHP-FPM com Docker Compose](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
     - [ ] [Serviços com Docker Compose](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
     - [ ] [Docker Compose e PHP Composer](https://www.youtube.com/playlist?list=PLMpauGt6IneQxS46vhASvVh7wGLmMRuXO)
