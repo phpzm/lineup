@@ -24,7 +24,7 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
     - [x] [PSR-4 configuração](https://www.youtube.com/watch?v=Q-kPnxaX9yc)
     - [x] [PSR-4 exemplo básico](https://www.youtube.com/watch?v=zk2IJ1yjjJw)
     - [x] [PSR-4 exemplo avançado](https://www.youtube.com/watch?v=Fjp0rmmfuCc&feature=youtu.be)
-    - [ ] [Carregamento de arquivos](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+    - [x] [Carregamento de arquivos](https://youtu.be/xL6T1eTyvtQ)
     - [ ] [Gerenciando bootstraping](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
   - [ ] Gestão de scripts
     - [ ] [Adicionar scripts ao composer.json](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
