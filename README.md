@@ -20,12 +20,12 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
   - [x] Instalação
     - [x] [Local](https://www.youtube.com/watch?v=1nkgNE2rDps)
     - [x] [Global](https://www.youtube.com/watch?v=_wJO0uYoxsA)
-  - [ ] Autoload
+  - [x] Autoload
     - [x] [PSR-4 configuração](https://www.youtube.com/watch?v=Q-kPnxaX9yc)
     - [x] [PSR-4 exemplo básico](https://www.youtube.com/watch?v=zk2IJ1yjjJw)
     - [x] [PSR-4 exemplo avançado](https://www.youtube.com/watch?v=Fjp0rmmfuCc&feature=youtu.be)
     - [x] [Carregamento de arquivos](https://youtu.be/xL6T1eTyvtQ)
-    - [ ] [Gerenciando bootstraping](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
+    - [x] [Gerenciando bootstraping](https://youtu.be/pZvuNjWMT38)
   - [ ] Gestão de scripts
     - [ ] [Adicionar scripts ao composer.json](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
     - [ ] [Combinar scripts e automatizar tarefas](https://www.youtube.com/playlist?list=PLMpauGt6IneTI5IynmQm1N5bZGLRfojbP)
