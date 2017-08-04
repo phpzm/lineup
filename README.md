@@ -54,6 +54,10 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
     - [ ] [Utilizando integração contínua]()
     - [ ] [Publicação de projetos]()
     - [ ] [Cluster com Docker Swarm]()
+- [ ] [VueJS](https://www.youtube.com/playlist?list=PLMpauGt6IneTSB5P8wLXp5qdQ6XBnDXMz)
+  - [ ] Começando com VueJS
+    - [x] [Iniciando com VueJS](https://www.youtube.com/watch?v=S42fJjanOMI)
+    - [ ] [Composição de Componentes](https://www.youtube.com/playlist?list=PLMpauGt6IneTSB5P8wLXp5qdQ6XBnDXMz)
 
 
 #### Contatos
