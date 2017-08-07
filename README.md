@@ -57,7 +57,7 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
 - [ ] [VueJS](https://www.youtube.com/playlist?list=PLMpauGt6IneTSB5P8wLXp5qdQ6XBnDXMz)
   - [ ] Começando com VueJS
     - [x] [Iniciando com VueJS](https://www.youtube.com/watch?v=S42fJjanOMI)
-    - [ ] [Composição de Componentes](https://www.youtube.com/playlist?list=PLMpauGt6IneTSB5P8wLXp5qdQ6XBnDXMz)
+    - [x] [Composição de Componentes](https://www.youtube.com/watch?v=acjn4B4RD6Q)
 
 
 #### Contatos
