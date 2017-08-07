@@ -58,6 +58,18 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
   - [ ] Começando com VueJS
     - [x] [Iniciando com VueJS](https://www.youtube.com/watch?v=S42fJjanOMI)
     - [x] [Composição de Componentes](https://www.youtube.com/watch?v=acjn4B4RD6Q)
+    - [ ] [Eventos entre Componentes]()
+    - [ ] [Passagem de dados via Props]()
+    - [ ] [Hooks e Ciclo de vida]()
+    - [ ] [Reatividade e Estados]()
+    - [ ] [Gestão de estados do Componente]()
+  - [ ] Aplicações de Página Única (SPA)
+    - [ ] [Interface de linha de comando]()
+    - [ ] [Estrutura básica de uma aplicaço]()
+    - [ ] [Criação de Rotas]()
+    - [ ] [Passagem de Parâmetros]()
+    - [ ] [Componentes dinâmicos]()
+    - [ ] [Construção (build) & Publicação (deploy)]()
 
 
 #### Contatos
