@@ -58,7 +58,7 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
   - [ ] Começando com VueJS
     - [x] [Iniciando com VueJS](https://www.youtube.com/watch?v=S42fJjanOMI)
     - [x] [Composição de Componentes](https://www.youtube.com/watch?v=acjn4B4RD6Q)
-    - [ ] [Eventos entre Componentes]()
+    - [x] [Eventos entre Componentes](https://www.youtube.com/watch?v=TiXvpyema8M)
     - [ ] [Passagem de dados via Props]()
     - [ ] [Hooks e Ciclo de vida]()
     - [ ] [Reatividade e Estados]()
