@@ -60,7 +60,7 @@ Antes de criar uma nova issue para sugerir algum conteúdo, faça sempre uma bus
     - [x] [Composição de Componentes](https://www.youtube.com/watch?v=acjn4B4RD6Q)
     - [x] [Eventos entre Componentes](https://www.youtube.com/watch?v=TiXvpyema8M)
     - [x] [Passagem de dados via Props]()
-    - [ ] [Reatividade e Estados]()
+    - [x] [Reatividade e Estados](https://www.youtube.com/watch?v=xtNcDn8ONDk)
     - [ ] [Hooks e Ciclo de vida]()
     - [ ] [Gestão de estados do Componente]()
   - [ ] Aplicações de Página Única (SPA)
